@@ -3,7 +3,7 @@
   "description": "Sample application using React with Spring Boot",
   "dependencies": {
     "@babel/core": "^7.9.0",
-    "@babel/preset-env": "^7.9.0",
+    "@babel/preset-env": "^7.27.1",
     "@babel/preset-react": "^7.9.0",
     "babel-loader": "^8.1.0",
     "react": "~16.13.1",
